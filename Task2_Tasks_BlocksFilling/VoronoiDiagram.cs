@@ -69,9 +69,7 @@ namespace Task2
             Bitmap[] layers = new Bitmap[threadsAmount];
 
             int yStep = yCoordMax / threadsAmount;
-
-            // run threads to fill diagram -----------------------------
-            for (int i = 0; i < threadsAmount - 1; i++)
+            for (int i = 0; i <= threadsAmount - 1; i++)
             {
                 layers[i] = new Bitmap(pictureBox.Width, pictureBox.Height);
 
@@ -79,21 +77,15 @@ namespace Task2
                 int yStart = i * yStep;
                 int yFinish = (i + 1) * yStep - 1;
 
-                tasks[i] = Task.Run(() => FillArea(yStart, yFinish, bitmapCurrent));
-            }
 
-            for (int i = threadsAmount - 1; i < threadsAmount; i++)
-            {
-                layers[i] = new Bitmap(pictureBox.Width, pictureBox.Height);
-
-                Bitmap bitmapCurrent = layers[i];
-                int yStart = i * yStep;
-                int yFinish = yCoordMax - 1;
+                if (i == threadsAmount - 1)
+                {
+                    yFinish = yCoordMax - 1;
+                }
 
                 tasks[i] = Task.Run(() => FillArea(yStart, yFinish, bitmapCurrent));
-            }
 
-            // ---------------------------------------------------------
+            }
 
             Task.WaitAll(tasks);
 

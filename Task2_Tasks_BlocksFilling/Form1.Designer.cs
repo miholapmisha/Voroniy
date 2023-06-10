@@ -115,7 +115,7 @@
             diagramViewer.BackColor = Color.Black;
             diagramViewer.Location = new Point(190, 7);
             diagramViewer.Name = "diagramViewer";
-            diagramViewer.Size = new Size(600, 500);
+            diagramViewer.Size = new Size(600, 400);
             diagramViewer.TabIndex = 3;
             diagramViewer.TabStop = false;
             diagramViewer.Click += diagramViewer_Click;
@@ -190,7 +190,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(802, 519);
+            ClientSize = new Size(802, 422);
             Controls.Add(lineHorizontal1);
             Controls.Add(randomGeneration);
             Controls.Add(lineVertical1);
