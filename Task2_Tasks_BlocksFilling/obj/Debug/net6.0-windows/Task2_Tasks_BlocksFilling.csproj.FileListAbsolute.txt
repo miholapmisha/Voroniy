@@ -1,0 +1,54 @@
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.exe
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.deps.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.runtimeconfig.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.AssemblyReference.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2.windowMain.resources
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.Properties.Resources.resources
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.GenerateResource.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.GeneratedMSBuildEditorConfig.editorconfig
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.AssemblyInfoInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.AssemblyInfo.cs
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.CoreCompileInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\refint\Task2_Tasks_BlocksFilling.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.genruntimeconfig.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 4\Lab4\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\ref\Task2_Tasks_BlocksFilling.dll
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.exe
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.deps.json
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.runtimeconfig.json
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.dll
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.pdb
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.AssemblyReference.cache
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2.windowMain.resources
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.Properties.Resources.resources
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.GenerateResource.cache
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.AssemblyInfoInputs.cache
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.AssemblyInfo.cs
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.CoreCompileInputs.cache
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.dll
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\refint\Task2_Tasks_BlocksFilling.dll
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.pdb
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.genruntimeconfig.cache
+E:\Личные документы\Университет\Можливо знадобиться\OOP\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\ref\Task2_Tasks_BlocksFilling.dll
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.exe
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.deps.json
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.runtimeconfig.json
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.dll
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\bin\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.pdb
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.AssemblyReference.cache
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2.windowMain.resources
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.Properties.Resources.resources
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.GenerateResource.cache
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.AssemblyInfoInputs.cache
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.AssemblyInfo.cs
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.csproj.CoreCompileInputs.cache
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.dll
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\refint\Task2_Tasks_BlocksFilling.dll
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.pdb
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\Task2_Tasks_BlocksFilling.genruntimeconfig.cache
+C:\Users\mihol\Desktop\Vor\Task2_Tasks_BlocksFilling\obj\Debug\net6.0-windows\ref\Task2_Tasks_BlocksFilling.dll
